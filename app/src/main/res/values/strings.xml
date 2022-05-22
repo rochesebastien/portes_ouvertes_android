@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ComSupEco - Projet portes ouvertes</string>
+
+    <string-array name="selection">
+        <item>➤ Tous</item>
+        <item></item>
+        <item>&#x27A4;  Origine scolaire des élèves</item>
+        <item>⚬ Bac général</item>
+        <item>⚬ Bac technologique</item>
+        <item>⚬ Bac professionnel</item>
+        <item>⚬ Université</item>
+        <item>⚬ Autre</item>
+        <item></item>
+        <item>&#x27A4; Spécialité choisie </item>
+        <item>⚬ Commerce international</item>
+        <item>⚬ Commerce internet</item>
+        <item>⚬ Finance</item>
+    </string-array>
+
+</resources>
